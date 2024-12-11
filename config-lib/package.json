@@ -1,0 +1,17 @@
+{
+    "name": "shared-config",
+    "version": "1.0.0",
+    "description": "Shared configuration module for Solana projects",
+    "main": "config.js",
+    "scripts": {
+      "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": ["solana", "config", "shared", "connection"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "@solana/web3.js": "^1.76.0",
+      "dotenv": "^16.1.0"
+    }
+  }
+  
